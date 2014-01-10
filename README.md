@@ -9,7 +9,7 @@ Requiment
 
 building Debian Wheezy Vagrant box
 ----------------------------------
-1. git clone https://github.com/nogajun/vagrant-boxes.git
-2. cd packer/wheezy32/
-3. packer build wheezy32.json
+1. git clone https://github.com/unitsche/vagrant-boxes.git
+2. cd packer/wheezy64/
+3. packer build wheezy64.json
 
