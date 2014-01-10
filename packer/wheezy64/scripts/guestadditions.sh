@@ -11,4 +11,3 @@ yes|sh /mnt/VBoxLinuxAdditions.run
 umount /mnt
 
 rm $VBOX_ISO
-
