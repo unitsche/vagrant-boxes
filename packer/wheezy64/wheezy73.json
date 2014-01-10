@@ -33,6 +33,7 @@
       "scripts": [
         "scripts/base.sh",
         "scripts/guestadditions.sh",
+        "scripts/chef.sh",
         "scripts/cleanup.sh"
       ],
       "override": {
