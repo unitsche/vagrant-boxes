@@ -11,5 +11,5 @@ building Debian Wheezy Vagrant box
 ----------------------------------
 1. git clone https://github.com/unitsche/vagrant-boxes.git
 2. cd packer/wheezy64/
-3. packer build wheezy73.json
+3. packer build wheezy74.json
 
